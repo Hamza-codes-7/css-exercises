@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.first-button {
+    background-color: hsl(0, 100%, 0%);
+    color: rgb(255,255,255);
+}
